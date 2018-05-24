@@ -1,0 +1,7 @@
+{
+    "name": "equalent/uniauth-php",
+    "autoload": {
+        "psr-0" : {
+            "UNIauth\\AuthClient"=>"src"
+    }
+}
