@@ -4,5 +4,12 @@
         "psr-0" : {
             "UNIauth\\AuthClient":"src"
         }
-    }
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+        "name": "Andrey Tsurkan",
+            "role": "developer"
+        }
+    ]
 }
